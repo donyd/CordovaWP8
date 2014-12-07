@@ -19,3 +19,9 @@ created using the CLI method as documented on the Apache Cordova page (http://co
 %20Command-Line%20Interface_create_the_app) ----
 
 Cordova Project Template for Windows 8 Phone
+
+How to use:
+1. Create a zip file containing the contents of this repo.
+2. Put it in the project template folder for Visual Studio, if you selected the default one it might be in a location similar to this: C:\Users\[current userName]\Documents\Visual Studio 2013\Templates\ProjectTemplates
+3. Put the newly created zip file at the root of this folder
+4. Open up Visual Studio and create a new project - there should be new CordovaWP8_3.6.17 project under the Visual C# section.
