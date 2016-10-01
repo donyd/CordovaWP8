@@ -1,15 +1,11 @@
-#CordovaWP8 Template
+##CordovaWP8 Template
 ==========
 **Description**: Apache Cordova jerry-rigged project template files for Visual 
 Studio 2013  
 **Author**: Donal D'silva on: 8/12/2014  
 **Repo**: https://github.com/donyd/CordovaWP8
 
-_The contents and intellectual property contained here are the properties   
-its creator and no claims to authorship is made. The information contained here  
-is just a personal excursion and no liability arising from its use, implied or  
-express, will be entertained. No level of testing or reliable usage from this  
-template has been logged. Use at your own risk_
+_The contents and intellectual property contained here are the properties its creator and no claims to authorship is made. The information contained here is just a personal excursion and no liability arising from its use, implied or express, will be entertained. No level of testing or reliable usage from this template has been logged. Use at your own risk_
 
 _Further, this template file was created using the archived file 'cordova-wp8-
 3.7.0.tgz' from the [Apache Cordova dist page](https://www.apache.org/dist/cordova/) and parts extracted from a project 
