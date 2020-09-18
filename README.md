@@ -1,4 +1,4 @@
-##CordovaWP8 Template
+CordovaWP8 Template
 ==========
 **Description**: Apache Cordova jerry-rigged project template files for Visual 
 Studio 2013  
